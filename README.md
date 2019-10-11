@@ -3,14 +3,14 @@ I used mybinder.com data science workbench that saves data science notebooks to 
 ![alt text](1john-wordcloud.png?raw=true)
 !
 Here are the steps to produce the wordcloud image above: 
-* Bullet list
-    * Nested bullet
-        * Sub-nested bullet etc
-* Bullet list item 2
+1. A numbered list
+    1. A nested numbered list
+    2. Which is numbered
+2. Which is numbered
 
 ~~~
- Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
+ Markup : 1. A numbered list
+              1. A nested numbered list
+              2. Which is numbered
+          2. Which is numbered
 ~~~
