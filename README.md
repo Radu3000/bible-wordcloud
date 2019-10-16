@@ -11,5 +11,6 @@ Here are the steps to produce the wordcloud image above:
 4. Click the "**Launch**" button. This will create a Jupyter data science workbench.  
 **Note:** It will take a minute for all import modules in [requirements.txt](requirements.txt) to be made available and then the workbench is displayed.
 5. After the workbench is loaded open and run each step of the **1 John Word Cloud.ipynb** notebook to produce the wordcloud image above.
+*Note: any changes you make to the notebook will NOT get saved to this github site.  If you want to save changes you can download the notebook and corresponding files and create a similar github sit.*
 
 
