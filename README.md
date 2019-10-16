@@ -5,9 +5,10 @@ I used mybinder.com data science workbench that saves data science notebooks to 
 !
 # Steps to produce wordcloud image above 
 Here are the steps to produce the wordcloud image above: 
-1. Go to https://mybinder.org/ and in the "**Github repository name text field**" enter the URL of this site https://github.com/daniel-m7/bible-wordcloud
-2. Click the "**Launch**" button. This will create a Jupyter data science workbench.  
+1. Copy to the clipboard the link to this github site https://github.com/daniel-m7/bible-wordcloud
+2. Go to https://mybinder.org/ and in the "**Github repository name text field**" paste the link
+3. Click the "**Launch**" button. This will create a Jupyter data science workbench.  
 **Note:** It will take a minute for all import modules in [requirements.txt](requirements.txt) to be made available and then the workbench is displayed.
-3. After the workbench is loaded open and run each step of the **1 John Word Cloud.ipynb** notebook to produce the wordcloud image above.
+4. After the workbench is loaded open and run each step of the **1 John Word Cloud.ipynb** notebook to produce the wordcloud image above.
 
 
